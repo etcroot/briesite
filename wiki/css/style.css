@@ -1,0 +1,79 @@
+body {
+  background: #2C2F33 !important;
+  font-family: 'Roboto', sans-serif;
+  color:#fff !important;
+}
+
+
+.list-group-item {
+  background-color:#23272A !important;
+  border:1px !important;
+}
+
+.list-group {
+  border-radius:3px !important;
+  border:0px !important;
+}
+
+.badge-discord {
+  background:#7289DA !important;
+  color:#fff !important;
+  border-radius:3px !important;
+  transition:.3s;
+}
+
+.btn-discord {
+  background:#7289DA !important;
+  color:#fff !important;
+  border-radius:3px !important;
+  transition:.3s;
+}
+
+.btn-discord:hover {
+  background:#fff !important;
+  color:#23272A !important;
+  border-radius:1px !important;
+  transition:.3s;
+}
+
+.jumbotron {
+   background: url(https://i.imgur.com/UrV0OcK.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:300px !important;
+  color:#fff !important;  
+  color:#fff !important;
+}
+
+.jumbotron h1 {
+  margin-top:30px;
+}
+
+.alert-discord {
+  background:#7289DA;
+  color:#49598F !important;
+  border-radius:3px !important;
+}
+
+.sidelink {
+  margin-left:20px;
+}
+
+.bg-dark {
+  background-color:#23272A !important;
+}
+
+
+a {
+  color:#fff !important;
+}
+
+a:hover {
+  text-decoration:none !important;
+}
+
+.navbar-brand {
+  font-weight:800;
+}
